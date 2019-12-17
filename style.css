@@ -1,0 +1,49 @@
+
+marquee
+	{
+		font-family: impact;
+		color: indigo;
+		font-size: 2em;
+	}
+
+
+
+
+h1
+	{
+    	color: red ; 
+    	text-align: center ;
+    	font-family: arial black ;
+    	font-size: 3em ;
+	}
+
+
+.paragraphe1
+	{
+    	font-family: franklin Gothis medium ;
+    	font-size: 1.3em ; 
+	}	
+
+
+
+.titre2,h3
+	{
+		color:green ; 
+    	font-family: arial ;
+    	font-size: 1.5em ;
+	}
+
+
+ol,ul
+	{
+		font-family: lucida sans ;
+    	font-size: 1.3em ;
+	}
+
+
+.partager
+	{
+		color:purple ; 
+    	font-family: trebuchet MS ;
+    	font-size: 2em ;
+	}	
